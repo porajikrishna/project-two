@@ -1,2 +1,3 @@
 # project-two
-class
+class 
+good deals good ways
